@@ -1,1 +1,1 @@
-# Random-challanges
+# Karan project challenges
